@@ -1,0 +1,1 @@
+This repository contains a calculator developed in Python using the Flet library to create modern and interactive user interfaces. The calculator offers basic arithmetic operations such as addition, subtraction, multiplication, and division, with an intuitive and easy-to-use interface.
